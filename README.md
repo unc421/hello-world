@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Friends!
+
+The politics of the moon conference is going to be moontastic.
